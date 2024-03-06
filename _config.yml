@@ -22,8 +22,8 @@ title: Anna Karenina
 email: jahatch@unomaha.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is a bit of information about the author Leo Tolstoy and his work Anna Karenina.
-baseurl: "/AnnaKarenina" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/AnnaKarenina/" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  jordan-nah
 
